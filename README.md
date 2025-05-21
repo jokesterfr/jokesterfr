@@ -11,11 +11,10 @@ Over the years, I've worn many hats: backend & frontend developer, lead dev, int
 
 ## 🛠 What I like to work with
 
-- TypeScript / JavaScript – especially Node.js (since the early days!)
+- TypeScript / JavaScript – especially Node.js (since the early days!) and NestJS
 - Linux, Ansible, Docker, ZFS
-- PostgreSQL, MongoDB
-- Vanilla JS/HTML/CSS, React
-- Jira (not really — just kidding 😄)
+- PostgreSQL, Kurrent, MongoDB
+- Vanilla JS/HTML/CSS, React & cie
 - Still discovering Rust atm!
 
 And more generally: distributed systems, open source, clean code, and automation.
